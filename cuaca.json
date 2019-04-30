@@ -1,0 +1,1545 @@
+{
+	"weatherdata": {
+		"location": {
+			"name": "Daerah Istimewa Yogyakarta",
+			"type": "",
+			"country": "ID",
+			"timezone": "",
+			"location": {
+				"_altitude": "0",
+				"_latitude": "-7.75",
+				"_longitude": "110.5",
+				"_geobase": "geonames",
+				"_geobaseid": "1621176"
+			}
+		},
+		"credit": "",
+		"meta": {
+			"lastupdate": "",
+			"calctime": "0.0054",
+			"nextupdate": ""
+		},
+		"sun": {
+			"_rise": "2019-03-04T22:42:50",
+			"_set": "2019-03-05T10:56:08"
+		},
+		"forecast": {
+			"time": [
+				{
+					"symbol": {
+						"_number": "501",
+						"_name": "moderate rain",
+						"_var": "10d"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "5.33",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "187.008",
+						"_code": "S",
+						"_name": "South"
+					},
+					"windSpeed": {
+						"_mps": "1.57",
+						"_name": ""
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "26.15",
+						"_min": "24.3",
+						"_max": "26.15"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1007.63"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "88",
+						"_unit": "%"
+					},
+					"_from": "2019-03-05T06:00:00",
+					"_to": "2019-03-05T09:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "501",
+						"_name": "moderate rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "9.85",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "6.50259",
+						"_code": "N",
+						"_name": "North"
+					},
+					"windSpeed": {
+						"_mps": "1.61",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "23.45",
+						"_min": "22.22",
+						"_max": "23.45"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1010.28"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "92",
+						"_unit": "%"
+					},
+					"_from": "2019-03-05T09:00:00",
+					"_to": "2019-03-05T12:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "501",
+						"_name": "moderate rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "7.78",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "21.0009",
+						"_code": "NNE",
+						"_name": "North-northeast"
+					},
+					"windSpeed": {
+						"_mps": "1.28",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "22.48",
+						"_min": "21.87",
+						"_max": "22.48"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1012.07"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "broken clouds",
+						"_all": "80",
+						"_unit": "%"
+					},
+					"_from": "2019-03-05T12:00:00",
+					"_to": "2019-03-05T15:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "803",
+						"_name": "broken clouds",
+						"_var": "04n"
+					},
+					"precipitation": "",
+					"windDirection": {
+						"_deg": "46.5005",
+						"_code": "NE",
+						"_name": "NorthEast"
+					},
+					"windSpeed": {
+						"_mps": "1.07",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "21.71",
+						"_min": "21.71",
+						"_max": "21.71"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1011.06"
+					},
+					"humidity": {
+						"_value": "99",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "broken clouds",
+						"_all": "76",
+						"_unit": "%"
+					},
+					"_from": "2019-03-05T15:00:00",
+					"_to": "2019-03-05T18:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "803",
+						"_name": "broken clouds",
+						"_var": "04n"
+					},
+					"precipitation": "",
+					"windDirection": {
+						"_deg": "26.0001",
+						"_code": "NNE",
+						"_name": "North-northeast"
+					},
+					"windSpeed": {
+						"_mps": "1.21",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "21.59",
+						"_min": "21.59",
+						"_max": "21.59"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1009.84"
+					},
+					"humidity": {
+						"_value": "99",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "broken clouds",
+						"_all": "56",
+						"_unit": "%"
+					},
+					"_from": "2019-03-05T18:00:00",
+					"_to": "2019-03-05T21:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "800",
+						"_name": "clear sky",
+						"_var": "02d"
+					},
+					"precipitation": "",
+					"windDirection": {
+						"_deg": "13.5027",
+						"_code": "NNE",
+						"_name": "North-northeast"
+					},
+					"windSpeed": {
+						"_mps": "1.76",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "24.01",
+						"_min": "24.01",
+						"_max": "24.01"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1010.78"
+					},
+					"humidity": {
+						"_value": "97",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "clear sky",
+						"_all": "8",
+						"_unit": "%"
+					},
+					"_from": "2019-03-05T21:00:00",
+					"_to": "2019-03-06T00:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "801",
+						"_name": "few clouds",
+						"_var": "02d"
+					},
+					"precipitation": "",
+					"windDirection": {
+						"_deg": "232.002",
+						"_code": "SW",
+						"_name": "Southwest"
+					},
+					"windSpeed": {
+						"_mps": "1.86",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "29.09",
+						"_min": "29.09",
+						"_max": "29.09"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1011.06"
+					},
+					"humidity": {
+						"_value": "96",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "few clouds",
+						"_all": "12",
+						"_unit": "%"
+					},
+					"_from": "2019-03-06T00:00:00",
+					"_to": "2019-03-06T03:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "501",
+						"_name": "moderate rain",
+						"_var": "10d"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "4.32",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "244.005",
+						"_code": "WSW",
+						"_name": "West-southwest"
+					},
+					"windSpeed": {
+						"_mps": "2.11",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "25.96",
+						"_min": "25.96",
+						"_max": "25.96"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1009.26"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "scattered clouds",
+						"_all": "44",
+						"_unit": "%"
+					},
+					"_from": "2019-03-06T03:00:00",
+					"_to": "2019-03-06T06:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "501",
+						"_name": "moderate rain",
+						"_var": "10d"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "4.62",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "303.504",
+						"_code": "WNW",
+						"_name": "West-northwest"
+					},
+					"windSpeed": {
+						"_mps": "1.87",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "25.14",
+						"_min": "25.14",
+						"_max": "25.14"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1009.45"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "92",
+						"_unit": "%"
+					},
+					"_from": "2019-03-06T06:00:00",
+					"_to": "2019-03-06T09:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "500",
+						"_name": "light rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "0.62",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "303",
+						"_code": "WNW",
+						"_name": "West-northwest"
+					},
+					"windSpeed": {
+						"_mps": "1.27",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "24.02",
+						"_min": "24.02",
+						"_max": "24.02"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1011.03"
+					},
+					"humidity": {
+						"_value": "99",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "88",
+						"_unit": "%"
+					},
+					"_from": "2019-03-06T09:00:00",
+					"_to": "2019-03-06T12:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "501",
+						"_name": "moderate rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "4.12",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "249",
+						"_code": "WSW",
+						"_name": "West-southwest"
+					},
+					"windSpeed": {
+						"_mps": "1.61",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "22.78",
+						"_min": "22.78",
+						"_max": "22.78"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1012.76"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "92",
+						"_unit": "%"
+					},
+					"_from": "2019-03-06T12:00:00",
+					"_to": "2019-03-06T15:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "501",
+						"_name": "moderate rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "5.7",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "2.50369",
+						"_code": "N",
+						"_name": "North"
+					},
+					"windSpeed": {
+						"_mps": "1.46",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "21.49",
+						"_min": "21.49",
+						"_max": "21.49"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1012.17"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "92",
+						"_unit": "%"
+					},
+					"_from": "2019-03-06T15:00:00",
+					"_to": "2019-03-06T18:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "500",
+						"_name": "light rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "0.23999999999999",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "351.002",
+						"_code": "",
+						"_name": ""
+					},
+					"windSpeed": {
+						"_mps": "1.41",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "21.41",
+						"_min": "21.41",
+						"_max": "21.41"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1011.23"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "88",
+						"_unit": "%"
+					},
+					"_from": "2019-03-06T18:00:00",
+					"_to": "2019-03-06T21:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "502",
+						"_name": "heavy intensity rain",
+						"_var": "10d"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "22.9",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "116.002",
+						"_code": "ESE",
+						"_name": "East-southeast"
+					},
+					"windSpeed": {
+						"_mps": "1.37",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "20.64",
+						"_min": "20.64",
+						"_max": "20.64"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1012.76"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "92",
+						"_unit": "%"
+					},
+					"_from": "2019-03-06T21:00:00",
+					"_to": "2019-03-07T00:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "502",
+						"_name": "heavy intensity rain",
+						"_var": "10d"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "18.98",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "317.003",
+						"_code": "NW",
+						"_name": "Northwest"
+					},
+					"windSpeed": {
+						"_mps": "1.72",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "21.44",
+						"_min": "21.44",
+						"_max": "21.44"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1013.49"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "92",
+						"_unit": "%"
+					},
+					"_from": "2019-03-07T00:00:00",
+					"_to": "2019-03-07T03:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "500",
+						"_name": "light rain",
+						"_var": "10d"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "0.11",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "297.501",
+						"_code": "WNW",
+						"_name": "West-northwest"
+					},
+					"windSpeed": {
+						"_mps": "1.82",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "25.87",
+						"_min": "25.87",
+						"_max": "25.87"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1010.84"
+					},
+					"humidity": {
+						"_value": "96",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "92",
+						"_unit": "%"
+					},
+					"_from": "2019-03-07T03:00:00",
+					"_to": "2019-03-07T06:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "803",
+						"_name": "broken clouds",
+						"_var": "04d"
+					},
+					"precipitation": "",
+					"windDirection": {
+						"_deg": "249.001",
+						"_code": "WSW",
+						"_name": "West-southwest"
+					},
+					"windSpeed": {
+						"_mps": "2.02",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "26.47",
+						"_min": "26.47",
+						"_max": "26.47"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1009.4"
+					},
+					"humidity": {
+						"_value": "92",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "broken clouds",
+						"_all": "68",
+						"_unit": "%"
+					},
+					"_from": "2019-03-07T06:00:00",
+					"_to": "2019-03-07T09:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "802",
+						"_name": "scattered clouds",
+						"_var": "03n"
+					},
+					"precipitation": "",
+					"windDirection": {
+						"_deg": "248",
+						"_code": "WSW",
+						"_name": "West-southwest"
+					},
+					"windSpeed": {
+						"_mps": "1.31",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "23.47",
+						"_min": "23.47",
+						"_max": "23.47"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1010.37"
+					},
+					"humidity": {
+						"_value": "97",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "scattered clouds",
+						"_all": "44",
+						"_unit": "%"
+					},
+					"_from": "2019-03-07T09:00:00",
+					"_to": "2019-03-07T12:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "802",
+						"_name": "scattered clouds",
+						"_var": "03n"
+					},
+					"precipitation": "",
+					"windDirection": {
+						"_deg": "266.502",
+						"_code": "W",
+						"_name": "West"
+					},
+					"windSpeed": {
+						"_mps": "1.21",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "21.9",
+						"_min": "21.9",
+						"_max": "21.9"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1011.68"
+					},
+					"humidity": {
+						"_value": "97",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "scattered clouds",
+						"_all": "44",
+						"_unit": "%"
+					},
+					"_from": "2019-03-07T12:00:00",
+					"_to": "2019-03-07T15:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "802",
+						"_name": "scattered clouds",
+						"_var": "03n"
+					},
+					"precipitation": "",
+					"windDirection": {
+						"_deg": "270.001",
+						"_code": "W",
+						"_name": "West"
+					},
+					"windSpeed": {
+						"_mps": "1.16",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "20.83",
+						"_min": "20.83",
+						"_max": "20.83"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1010.52"
+					},
+					"humidity": {
+						"_value": "97",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "scattered clouds",
+						"_all": "32",
+						"_unit": "%"
+					},
+					"_from": "2019-03-07T15:00:00",
+					"_to": "2019-03-07T18:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "500",
+						"_name": "light rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "0.019999999999996",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "272.503",
+						"_code": "W",
+						"_name": "West"
+					},
+					"windSpeed": {
+						"_mps": "1.17",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "20.53",
+						"_min": "20.53",
+						"_max": "20.53"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1009.46"
+					},
+					"humidity": {
+						"_value": "99",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "broken clouds",
+						"_all": "64",
+						"_unit": "%"
+					},
+					"_from": "2019-03-07T18:00:00",
+					"_to": "2019-03-07T21:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "500",
+						"_name": "light rain",
+						"_var": "10d"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "0.0024999999999977",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "311.501",
+						"_code": "NW",
+						"_name": "Northwest"
+					},
+					"windSpeed": {
+						"_mps": "1.76",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "23.05",
+						"_min": "23.05",
+						"_max": "23.05"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1010.56"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "few clouds",
+						"_all": "24",
+						"_unit": "%"
+					},
+					"_from": "2019-03-07T21:00:00",
+					"_to": "2019-03-08T00:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "500",
+						"_name": "light rain",
+						"_var": "10d"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "0.012500000000003",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "226.003",
+						"_code": "SW",
+						"_name": "Southwest"
+					},
+					"windSpeed": {
+						"_mps": "1.85",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "27.95",
+						"_min": "27.95",
+						"_max": "27.95"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1011.04"
+					},
+					"humidity": {
+						"_value": "97",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "few clouds",
+						"_all": "24",
+						"_unit": "%"
+					},
+					"_from": "2019-03-08T00:00:00",
+					"_to": "2019-03-08T03:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "500",
+						"_name": "light rain",
+						"_var": "10d"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "1.763",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "216.504",
+						"_code": "SW",
+						"_name": "Southwest"
+					},
+					"windSpeed": {
+						"_mps": "2.46",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "27.21",
+						"_min": "27.21",
+						"_max": "27.21"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1009.27"
+					},
+					"humidity": {
+						"_value": "98",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "few clouds",
+						"_all": "24",
+						"_unit": "%"
+					},
+					"_from": "2019-03-08T03:00:00",
+					"_to": "2019-03-08T06:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "501",
+						"_name": "moderate rain",
+						"_var": "10d"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "11.824",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "245.505",
+						"_code": "WSW",
+						"_name": "West-southwest"
+					},
+					"windSpeed": {
+						"_mps": "1.86",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "24.59",
+						"_min": "24.59",
+						"_max": "24.59"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1009.09"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "88",
+						"_unit": "%"
+					},
+					"_from": "2019-03-08T06:00:00",
+					"_to": "2019-03-08T09:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "500",
+						"_name": "light rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "1.013",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "280.001",
+						"_code": "W",
+						"_name": "West"
+					},
+					"windSpeed": {
+						"_mps": "1.21",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "24.05",
+						"_min": "24.05",
+						"_max": "24.05"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1010.51"
+					},
+					"humidity": {
+						"_value": "99",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "broken clouds",
+						"_all": "68",
+						"_unit": "%"
+					},
+					"_from": "2019-03-08T09:00:00",
+					"_to": "2019-03-08T12:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "500",
+						"_name": "light rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "0.025000000000006",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "289.5",
+						"_code": "WNW",
+						"_name": "West-northwest"
+					},
+					"windSpeed": {
+						"_mps": "1.21",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "22.81",
+						"_min": "22.81",
+						"_max": "22.81"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1011.73"
+					},
+					"humidity": {
+						"_value": "98",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "scattered clouds",
+						"_all": "48",
+						"_unit": "%"
+					},
+					"_from": "2019-03-08T12:00:00",
+					"_to": "2019-03-08T15:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "500",
+						"_name": "light rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "1.05",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "284.503",
+						"_code": "WNW",
+						"_name": "West-northwest"
+					},
+					"windSpeed": {
+						"_mps": "1.22",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "22.77",
+						"_min": "22.77",
+						"_max": "22.77"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1010.59"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "broken clouds",
+						"_all": "80",
+						"_unit": "%"
+					},
+					"_from": "2019-03-08T15:00:00",
+					"_to": "2019-03-08T18:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "501",
+						"_name": "moderate rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "7.2",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "320.502",
+						"_code": "NW",
+						"_name": "Northwest"
+					},
+					"windSpeed": {
+						"_mps": "1.32",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "21.81",
+						"_min": "21.81",
+						"_max": "21.81"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1009.65"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "broken clouds",
+						"_all": "76",
+						"_unit": "%"
+					},
+					"_from": "2019-03-08T18:00:00",
+					"_to": "2019-03-08T21:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "500",
+						"_name": "light rain",
+						"_var": "10d"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "0.049999999999997",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "5.00327",
+						"_code": "N",
+						"_name": "North"
+					},
+					"windSpeed": {
+						"_mps": "1.82",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "23.22",
+						"_min": "23.22",
+						"_max": "23.22"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1011"
+					},
+					"humidity": {
+						"_value": "99",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "scattered clouds",
+						"_all": "48",
+						"_unit": "%"
+					},
+					"_from": "2019-03-08T21:00:00",
+					"_to": "2019-03-09T00:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "802",
+						"_name": "scattered clouds",
+						"_var": "03d"
+					},
+					"precipitation": "",
+					"windDirection": {
+						"_deg": "135.512",
+						"_code": "SE",
+						"_name": "SouthEast"
+					},
+					"windSpeed": {
+						"_mps": "1.85",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "26.91",
+						"_min": "26.91",
+						"_max": "26.91"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1011.52"
+					},
+					"humidity": {
+						"_value": "97",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "scattered clouds",
+						"_all": "36",
+						"_unit": "%"
+					},
+					"_from": "2019-03-09T00:00:00",
+					"_to": "2019-03-09T03:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "804",
+						"_name": "overcast clouds",
+						"_var": "04d"
+					},
+					"precipitation": "",
+					"windDirection": {
+						"_deg": "129.5",
+						"_code": "SE",
+						"_name": "SouthEast"
+					},
+					"windSpeed": {
+						"_mps": "2.02",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "27.24",
+						"_min": "27.24",
+						"_max": "27.24"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1009.57"
+					},
+					"humidity": {
+						"_value": "96",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "88",
+						"_unit": "%"
+					},
+					"_from": "2019-03-09T03:00:00",
+					"_to": "2019-03-09T06:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "501",
+						"_name": "moderate rain",
+						"_var": "10d"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "8.275",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "290.505",
+						"_code": "WNW",
+						"_name": "West-northwest"
+					},
+					"windSpeed": {
+						"_mps": "1.46",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "24.62",
+						"_min": "24.62",
+						"_max": "24.62"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1008.72"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "broken clouds",
+						"_all": "56",
+						"_unit": "%"
+					},
+					"_from": "2019-03-09T06:00:00",
+					"_to": "2019-03-09T09:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "500",
+						"_name": "light rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "0.099999999999994",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "234.501",
+						"_code": "SW",
+						"_name": "Southwest"
+					},
+					"windSpeed": {
+						"_mps": "0.96",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "23.65",
+						"_min": "23.65",
+						"_max": "23.65"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1010.42"
+					},
+					"humidity": {
+						"_value": "97",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "broken clouds",
+						"_all": "80",
+						"_unit": "%"
+					},
+					"_from": "2019-03-09T09:00:00",
+					"_to": "2019-03-09T12:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "500",
+						"_name": "light rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "0.074999999999989",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "22.0014",
+						"_code": "NNE",
+						"_name": "North-northeast"
+					},
+					"windSpeed": {
+						"_mps": "1.32",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "23.54",
+						"_min": "23.54",
+						"_max": "23.54"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1011.85"
+					},
+					"humidity": {
+						"_value": "98",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "92",
+						"_unit": "%"
+					},
+					"_from": "2019-03-09T12:00:00",
+					"_to": "2019-03-09T15:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "501",
+						"_name": "moderate rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "4.9",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "9.01706",
+						"_code": "N",
+						"_name": "North"
+					},
+					"windSpeed": {
+						"_mps": "1.76",
+						"_name": "Light breeze"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "21.5",
+						"_min": "21.5",
+						"_max": "21.5"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1011.17"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "92",
+						"_unit": "%"
+					},
+					"_from": "2019-03-09T15:00:00",
+					"_to": "2019-03-09T18:00:00"
+				},
+				{
+					"symbol": {
+						"_number": "500",
+						"_name": "light rain",
+						"_var": "10n"
+					},
+					"precipitation": {
+						"_unit": "3h",
+						"_value": "0.125",
+						"_type": "rain"
+					},
+					"windDirection": {
+						"_deg": "353.001",
+						"_code": "",
+						"_name": ""
+					},
+					"windSpeed": {
+						"_mps": "1.41",
+						"_name": "Calm"
+					},
+					"temperature": {
+						"_unit": "celsius",
+						"_value": "21.43",
+						"_min": "21.43",
+						"_max": "21.43"
+					},
+					"pressure": {
+						"_unit": "hPa",
+						"_value": "1010.61"
+					},
+					"humidity": {
+						"_value": "100",
+						"_unit": "%"
+					},
+					"clouds": {
+						"_value": "overcast clouds",
+						"_all": "88",
+						"_unit": "%"
+					},
+					"_from": "2019-03-09T18:00:00",
+					"_to": "2019-03-09T21:00:00"
+				}
+			]
+		}
+	}
+}

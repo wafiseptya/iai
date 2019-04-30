@@ -1,0 +1,43 @@
+[
+    {
+        "nik": "021902389182731",
+        "umur": 25,
+        "nama": { 
+            "firstname":"Hanif",
+            "lastname":"Wafi"
+        }
+    } ,
+    {
+        "nik": "1234124123",
+        "umur": 53,
+        "nama": { 
+            "firstname":"Carol",
+            "lastname":"Biatch"
+        }
+    } ,
+    {
+        "nik": "345345345",
+        "umur": 17,
+        "nama": { 
+            "firstname":"Andy",
+            "lastname":"Whoor"
+        }
+    } ,
+    {
+        "nik": "3464564356",
+        "umur": 15,
+        "nama": { 
+            "firstname":"Shitti",
+            "lastname":"Hool"
+        }
+    } ,
+    {
+        "nik": "9764543223",
+        "umur": 12,
+        "nama": { 
+            "firstname":"Fuwq",
+            "lastname":"Yhuu"
+        },
+        "hobi": ["tidur", "game"]
+    }
+]
