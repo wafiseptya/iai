@@ -45,7 +45,7 @@ if ($err) {
     </form>
 </div>
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
     $(document).ready(function() {
         // Data yang ditamilkan pada autocomplete.
         
@@ -72,6 +72,29 @@ if ($err) {
 
         });
     })
-</script>
+</script> -->
+<?php
+    echo "
+        <table class='mt-3 table table-hover table-bordered'>
+        <thead class='thead-dark'>
+        <tr>
+            <th scope='col'>ID</th>
+            <th scope='col'>Provinsi</th>
+        </tr>
+        </thead>
+        <tbody>";
+
+    $results = $json->rajaongkir->results;
+    foreach ($results as $result) {
+        echo 
+        "<tr>
+          <td>" . $result->city_id . "</td>
+          <td>" . $result->city_name . "</td>
+        </tr>";
+    }
+    echo "
+      </tbody>
+    </table>";
+?>
 </body>
 </html>
