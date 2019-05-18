@@ -4,14 +4,19 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.css"/>
     <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js"></script>
-    <script type="text/javascript" src="main.js"></script>
+    <!-- <script type="text/javascript" src="main.js"></script> -->
 </head>
 <body>
 <div class="container pt-5">
 
 <?php
 
-  $id = $_GET["id"];
+if(isset($_GET['province_id']))
+{
+      $id = $_GET["province_id"];
+      // $id = $_POST['province_id'];
+  }
+  // $id = $_COOKIE["province_id"];
   $curl = curl_init();
 
   curl_setopt_array($curl, array(
@@ -49,10 +54,14 @@
       </div>
     </div>";
 
-    $curl = curl_init();
+  
+  if(isset($_GET['province_id']))
+  {
+
+  $curl = curl_init();
 
   curl_setopt_array($curl, array(
-    CURLOPT_URL => "https://api.rajaongkir.com/starter/province=$id",
+    CURLOPT_URL => "https://api.rajaongkir.com/starter/city?province=$id",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => "",
     CURLOPT_MAXREDIRS => 10,
@@ -64,12 +73,14 @@
     ),
   ));
 
-  $response = curl_exec($curl);
+  $responses = curl_exec($curl);
   $err = curl_error($curl);
 
   curl_close($curl);
 
-  $jsonx = json_decode($response);
+  // echo $responses;
+
+  $jsonx = json_decode($responses);
 
     if ($id) {
       echo "
@@ -86,8 +97,8 @@
         foreach ($results as $result) {
             echo 
             "<tr>
-              <td>" . $result->province_id . "</td>
-              <td>" . $result->province . "</td>
+              <td>" . $result->city_id . "</td>
+              <td>" . $result->city_name . "</td>
             </tr>";
         }
 
@@ -98,7 +109,8 @@
       echo "no";
     }
     
-  }
+    }
+}
 ?>
 </div>
 <script>
@@ -108,8 +120,8 @@
       var model=$('#inputGroupSelect04').val();
       // alert(model);
       // $.get("http://localhost/iai/rajaongkir2/province.php", { "id": model } );
-      window.location.href = "http://localhost/iai/rajaongkir2/province.php?id=" + model;
-
+      window.location.href = "http://localhost/iai/rajaongkir2/province.php?province_id=" + model;
+      // document.cookie = 'province_id=' + model+"; path=/";
     });
   })
 </script>

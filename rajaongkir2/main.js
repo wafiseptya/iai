@@ -1,34 +1,20 @@
 $(function(){
-  $.ajaxSetup({
-  headers: {
-    'key': '3b336ea639da23a906596cf684b097cd',
-    }
-  });
    
-  $('#search').submit(function(event) {
-      event.preventDefault();
-      var get_data = $(this).serialize();
-      console.log(get_data=>id);
-      var url = 'https://api.rajaongkir.com/starter/city?id=39&province=5';
+  $('#inputGroupSelect04').on('change', function() {
+    
+      var model=$('#inputGroupSelect04').val();
+      // var url = 'https://api.rajaongkir.com/starter/city?province=5' + model;
       // console.log(url);
       // console.log(post_data);
       $.ajax({
-          url: url,
-          type: 'POST',
-          data: get_data,
-          dataType: "json",
-          success:function(data){
-            console.log(data);
-          },
-          error:function(data){
-            var parsedData = data;
-            swal(
-              'Gagal!',
-              'Whoops ada kesalahan pada server!',
-              'error'
-            );
-            
-          }
+        type: "POST",
+        url: 'province.php',
+        data: "province_id=" + model,
+        success: function(data)
+        {
+            alert("success!");
+        }
+
       });
   });
 });
